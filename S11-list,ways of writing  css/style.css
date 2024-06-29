@@ -1,0 +1,38 @@
+#mainHeading {
+    color: black;
+    background-color: red;
+    text-align: center;
+    border-radius: 50px;
+}
+.mi {
+    background-color: blue;
+    padding: 20px;
+    border: 10px groove deeppink;
+    
+}
+
+ ol li {
+    margin-left: 100px; 
+    content: "🏏"; 
+    /* /* list-style-image:url("./images/rohit.png") ;  */
+    
+} 
+
+.csk {
+    background-color: yellow;
+    padding: 20px;
+    border: 10px ridge #ccc;
+    
+}
+ul ::marker {
+    /* margin-left: 100px; */
+    content: "🏏";
+}
+
+.rcb {
+    background-color: red;
+    padding: 20px;
+    margin: 20px auto;
+    border: 10px double gray;
+}
+
